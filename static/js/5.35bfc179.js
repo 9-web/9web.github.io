@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"./.docz/app/imports.js":function(e,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.imports=void 0;var d={"doc/index.mdx":function(){return Promise.all([n.e(0),n.e(2)]).then(n.t.bind(null,"./doc/index.mdx",7))},"doc/tool/lerna.mdx":function(){return Promise.all([n.e(0),n.e(3)]).then(n.t.bind(null,"./doc/tool/lerna.mdx",7))}};o.imports=d}},0,[0,2,3]]);
+//# sourceMappingURL=5.288fa8413c50267ceddc.js.map
