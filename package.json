@@ -1,0 +1,24 @@
+{
+  "name": "9web.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/9web.github.io.js",
+  "module": "dist/9web.github.io.esm.js",
+  "unpkg": "dist/9web.github.io.umd.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/9web.github.io",
+  "scripts": {
+    "dev": "umi doc dev",
+    "build:doc": "umi doc build",
+    "deploy:doc": "npm run build:doc && umi doc deploy",
+    "build": "umi lib build"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-library": "^1.0.1-0"
+  },
+  "license": "MIT"
+}
